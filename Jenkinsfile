@@ -1,5 +1,5 @@
 def registry = 'https://sudha01.jfrog.io'
-def imageName = 'sudha01.jfrog.io/sudha-docker/ttrend'
+def imageName = 'sudha01.jfrog.io/sudha-docker-local/ttrend'
 def version   = '2.1.2'
 pipeline {
     agent {
